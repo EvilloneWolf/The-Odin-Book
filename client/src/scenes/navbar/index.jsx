@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          The Odin Book
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
